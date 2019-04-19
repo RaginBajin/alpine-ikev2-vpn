@@ -1,4 +1,4 @@
-# A runing IKEv2 VPN's container on alpine linux system
+# Docker container running StrongSwam IKEv2 VPN based on Alpine image.
 ## Overview ##
 Let the IKEv2 vpn service run in the Docker container, do not need too much configuration, you just take the mirror on the Docker server, then run a container, the container generated certificate copy installed on your client, you can connect vpn The server. Welcome everyone's discussion！:blush:
 
